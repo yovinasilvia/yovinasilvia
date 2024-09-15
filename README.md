@@ -12,6 +12,6 @@
 
 🎓 For three months, I attended the Immersive Program at Alterra Academy for Data Engineering. 
 
-📫 How to reach me: LinkedIn
+📫 How to reach me: LinkedIn, Github and Gmail
 
 Feel free to connect with me!
